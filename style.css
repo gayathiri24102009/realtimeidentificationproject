@@ -1,0 +1,43 @@
+.head
+{
+    font-size:26px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 20px rgb(0, 0, 0);
+}
+.head_div
+{
+    float: none;
+    background-color: cornsilk;
+    padding: 15px;
+    border-radius: 12px;
+    color:darkmagenta;
+    box-shadow:5px 5px 20px cornsilk;
+}
+#headdiv2
+{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+.result_tag
+{
+  box-shadow: 5px 5px 15px rgb(24, 0, 245);
+}
+.copy_right_footer{
+    position: fixed;
+    color:rgb(0, 0, 102);
+    background-color: cornsilk;
+    width: 100%;
+    bottom: 0;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+ canvas
+ {
+     border:5px ridge rgb(247, 247, 247);
+     margin-top: 125px;
+     box-shadow: 5px 5px 15px whitesmoke;
+     border-radius: 20px;
+ }
